@@ -13,6 +13,13 @@
 ![Cargo](https://img.shields.io/badge/Analista%20de%20T.I-2b2b2b?style=for-the-badge&logo=googlechrome&logoColor=E0B101)
 ![IA](https://img.shields.io/badge/Especialista%20em-I.A-E0B101?style=for-the-badge&labelColor=2b2b2b)
 ![Automacao](https://img.shields.io/badge/Automa%C3%A7%C3%A3o-de%20Tarefas-E0B101?style=for-the-badge&labelColor=2b2b2b)
+
+![n8n](https://img.shields.io/badge/n8n-2b2b2b?style=for-the-badge)
+![Make](https://img.shields.io/badge/Make-2b2b2b?style=for-the-badge)
+![Albato](https://img.shields.io/badge/Albato-2b2b2b?style=for-the-badge)
+![E-commerce próprio](https://img.shields.io/badge/E--commerce%20pr%C3%B3prio-E0B101?style=for-the-badge&labelColor=2b2b2b)
+![Magento 2](https://img.shields.io/badge/Magento%202-2b2b2b?style=for-the-badge)
+![Google Sites](https://img.shields.io/badge/Google%20Sites-E0B101?style=for-the-badge&labelColor=2b2b2b)
 ![Local](https://img.shields.io/badge/Brasil-2b2b2b?style=for-the-badge&logo=googlemaps&logoColor=E0B101)
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Lucas-T.I)
@@ -73,14 +80,9 @@ Minha especialidade é pegar processos manuais, lentos ou espalhados e transform
 
 <div align="center">
 
-![n8n](https://img.shields.io/badge/n8n-2b2b2b?style=for-the-badge)
-![Make](https://img.shields.io/badge/Make-2b2b2b?style=for-the-badge)
-![Albato](https://img.shields.io/badge/Albato-2b2b2b?style=for-the-badge)
-![E-commerce próprio](https://img.shields.io/badge/E--commerce%20pr%C3%B3prio-E0B101?style=for-the-badge&labelColor=2b2b2b)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-2b2b2b?style=for-the-badge)
 ![WordPress](https://img.shields.io/badge/WordPress-2b2b2b?style=for-the-badge)
-![Magento 2](https://img.shields.io/badge/Magento%202-2b2b2b?style=for-the-badge)
-![Google Sites](https://img.shields.io/badge/Google%20Sites-E0B101?style=for-the-badge&labelColor=2b2b2b)
+![System Glass ERP](https://img.shields.io/badge/System%20Glass%20ERP-E0B101?style=for-the-badge&labelColor=2b2b2b)
 
 </div>
 

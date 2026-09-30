@@ -74,7 +74,7 @@ Minha especialidade é pegar processos manuais, lentos ou espalhados e transform
 
 ## 🚀 Projeto em destaque
 
-### Central de Atendimento de T.I
+### [Central de Atendimento de T.I](https://github.com/comercial-lucasti/central-atendimento-ti)
 Sistema de chamados criado do zero para organizar o suporte de uma operação real: sem servidor, sem custo de infraestrutura e com tudo rastreável.
 
 | | |
@@ -86,7 +86,8 @@ Sistema de chamados criado do zero para organizar o suporte de uma operação re
 | 🔒 **Confiabilidade** | Trava contra envio duplicado, validação no servidor e tratamento de erros |
 | 🎮 **Minijogo** | Depois do protocolo, um jogo estilo dinossauro do Chrome com o técnico Lucas, feito em Canvas puro |
 
-**Stack:** HTML · CSS · JavaScript · Google Workspace
+**Stack:** HTML · CSS · JavaScript · Google Workspace  
+**Código aberto:** [github.com/comercial-lucasti/central-atendimento-ti](https://github.com/comercial-lucasti/central-atendimento-ti)
 
 ## 🧭 Como eu trabalho
 

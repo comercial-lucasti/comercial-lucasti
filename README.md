@@ -72,7 +72,7 @@ Minha especialidade é pegar processos manuais, lentos ou espalhados e transform
 
 </div>
 
-## 🚀 Projeto em destaque
+## 🚀 Projetos em destaque
 
 ### [Central de Atendimento de T.I](https://github.com/comercial-lucasti/central-atendimento-ti)
 Sistema de chamados criado do zero para organizar o suporte de uma operação real: sem servidor, sem custo de infraestrutura e com tudo rastreável.
@@ -88,6 +88,19 @@ Sistema de chamados criado do zero para organizar o suporte de uma operação re
 
 **Stack:** HTML · CSS · JavaScript · Google Workspace  
 **Código aberto:** [github.com/comercial-lucasti/central-atendimento-ti](https://github.com/comercial-lucasti/central-atendimento-ti)
+
+### [Controle de Ponto](https://github.com/comercial-lucasti/controle-de-ponto)
+Registro de ponto por botões, com resumo diário para o gestor e **Diário de Bordo em PDF** gerado automaticamente.
+
+| | |
+|---|---|
+| 🕒 **Registro de ponto** | Quatro ações (entrada, almoço, retorno e saída) gravadas em planilha, sem duplicidade |
+| ✉️ **Comprovante e resumo** | O colaborador recebe o comprovante e o gestor recebe um resumo por dia, com a jornada calculada |
+| 📄 **Diário de Bordo** | Notebook no Google Colab lê a planilha e gera o PDF do período, pronto para assinar |
+| 🔒 **Privacidade** | Nenhum dado pessoal no código, configuração por propriedades do script |
+
+**Stack:** Google Apps Script · Google Sheets · Python · Google Colab · Pandas · ReportLab  
+**Código aberto:** [github.com/comercial-lucasti/controle-de-ponto](https://github.com/comercial-lucasti/controle-de-ponto)
 
 ## 🧭 Como eu trabalho
 

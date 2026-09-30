@@ -87,7 +87,7 @@ Sistema de chamados criado do zero para organizar o suporte de uma operação re
 | 🎮 **Minijogo** | Depois do protocolo, um jogo estilo dinossauro do Chrome com o técnico Lucas, feito em Canvas puro |
 
 **Stack:** HTML · CSS · JavaScript · Google Workspace  
-**Código aberto:** [github.com/comercial-lucasti/central-atendimento-ti](https://github.com/comercial-lucasti/central-atendimento-ti)
+**Repositório (código visível, todos os direitos reservados):** [github.com/comercial-lucasti/central-atendimento-ti](https://github.com/comercial-lucasti/central-atendimento-ti)
 
 ### [Controle de Ponto](https://github.com/comercial-lucasti/controle-de-ponto)
 Registro de ponto por botões, com resumo diário para o gestor e **Diário de Bordo em PDF** gerado automaticamente.
@@ -100,7 +100,7 @@ Registro de ponto por botões, com resumo diário para o gestor e **Diário de B
 | 🔒 **Privacidade** | Nenhum dado pessoal no código, configuração por propriedades do script |
 
 **Stack:** Google Apps Script · Google Sheets · Python · Google Colab · Pandas · ReportLab  
-**Código aberto:** [github.com/comercial-lucasti/controle-de-ponto](https://github.com/comercial-lucasti/controle-de-ponto)
+**Repositório (código visível, todos os direitos reservados):** [github.com/comercial-lucasti/controle-de-ponto](https://github.com/comercial-lucasti/controle-de-ponto)
 
 ## 🧭 Como eu trabalho
 

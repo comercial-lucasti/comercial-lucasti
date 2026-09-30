@@ -54,10 +54,10 @@ Minha especialidade é pegar processos manuais, lentos ou espalhados e transform
 ![Bling ERP](https://img.shields.io/badge/Bling%20ERP-2b2b2b?style=for-the-badge)
 ![Odoo ERP](https://img.shields.io/badge/Odoo%20ERP-2b2b2b?style=for-the-badge&logo=odoo&logoColor=E0B101)
 ![Omie ERP](https://img.shields.io/badge/Omie%20ERP-2b2b2b?style=for-the-badge)
-![System Glass](https://img.shields.io/badge/System%20Glass-2b2b2b?style=for-the-badge)
 
 ![RD Station CRM](https://img.shields.io/badge/RD%20Station%20CRM-E0B101?style=for-the-badge&labelColor=2b2b2b)
 ![RD Station Marketing](https://img.shields.io/badge/RD%20Station%20Marketing-E0B101?style=for-the-badge&labelColor=2b2b2b)
+![Bitrix24 CRM](https://img.shields.io/badge/Bitrix24%20CRM-E0B101?style=for-the-badge&labelColor=2b2b2b)
 
 ![BaseLinker](https://img.shields.io/badge/BaseLinker-2b2b2b?style=for-the-badge)
 ![SMSBot](https://img.shields.io/badge/SMSBot-2b2b2b?style=for-the-badge)
@@ -67,6 +67,22 @@ Minha especialidade é pegar processos manuais, lentos ou espalhados e transform
 </div>
 
 > Da escolha e parametrização à **integração entre os sistemas por APIs** e às **automações** que fazem tudo conversar.
+
+
+### 🌱 Já configurei e sigo me aprofundando
+
+<div align="center">
+
+![n8n](https://img.shields.io/badge/n8n-2b2b2b?style=for-the-badge)
+![Make](https://img.shields.io/badge/Make-2b2b2b?style=for-the-badge)
+![Albato](https://img.shields.io/badge/Albato-2b2b2b?style=for-the-badge)
+![E-commerce próprio](https://img.shields.io/badge/E--commerce%20pr%C3%B3prio-E0B101?style=for-the-badge&labelColor=2b2b2b)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-2b2b2b?style=for-the-badge)
+![WordPress](https://img.shields.io/badge/WordPress-2b2b2b?style=for-the-badge)
+![Magento 2](https://img.shields.io/badge/Magento%202-2b2b2b?style=for-the-badge)
+![Google Sites](https://img.shields.io/badge/Google%20Sites-E0B101?style=for-the-badge&labelColor=2b2b2b)
+
+</div>
 
 ## 🧰 Tecnologias e ferramentas
 
